@@ -2657,7 +2657,7 @@ export const fallbackSVGIcons = [
       <head>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>charoneo的导航页</title>
+        <title>血小板的导航页</title>
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet"/>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔖</text></svg>">
         <script src="https://cdn.tailwindcss.com"></script>
@@ -2999,7 +2999,7 @@ export const fallbackSVGIcons = [
                 <span class="inline-flex items-center gap-2 rounded-full bg-white/18 px-4 py-1.5 text-[12px] uppercase tracking-[0.3em] text-white/95 border border-white/30 shadow-lg shadow-black/10">
                   精选 · 实用 · 快捷
                 </span>
-                <h1 class="mt-4 text-3xl md:text-4xl font-semibold tracking-tight">charoneo导航</h1>
+                <h1 class="mt-4 text-3xl md:text-4xl font-semibold tracking-tight">血小板导航</h1>
                 <p class="mt-3 text-sm md:text-base text-secondary-100/90 leading-relaxed">
                   欢迎访问，觉得好用可以收藏，谢谢。
                 </p>
@@ -3038,7 +3038,7 @@ export const fallbackSVGIcons = [
           <!-- 页脚 -->
           <footer class="bg-white py-8 px-6 mt-12 border-t border-primary-100">
             <div class="max-w-5xl mx-auto text-center">
-              <p class="text-gray-500">© ${new Date().getFullYear()} charoneo | 开心快乐每一天</p>
+              <p class="text-gray-500">© ${new Date().getFullYear()} 血小板 | 开心快乐每一天</p>
               <div class="mt-4 flex justify-center space-x-6">
                 <a href="/admin" class="text-gray-400 hover:text-primary-500 transition-colors" title="后台管理">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
